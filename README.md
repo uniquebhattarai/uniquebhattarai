@@ -38,7 +38,7 @@ I am a results-driven **Full Stack Developer** from Nepal. I specialize in build
 #### 📊 [Student Score Prediction System](https://sms-project-frontend.vercel.app/) | ML + Analytics
 *Predicting academic performance through data-driven insights.*
 - **ML Integration:** Connected a Django REST API with a trained Machine Learning model.
-- **UI/UX:** Built a high-performance dashboard using **Tailwind CSS v4** and **ShadCN/UI**.
+- **UI/UX:** Built a high-performance dashboard using **Tailwind CSS v4**.
 - **Roles:** Complex role-based access control for Students, Teachers, and Admins.
 
 #### 📺 Streamify | Scalable Video Backend
