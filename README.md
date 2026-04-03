@@ -69,7 +69,7 @@ I am a results-driven **Full Stack Developer** from Nepal. I specialize in build
 
 ### 📫 Connect with Me
 - 🌍 **Location:** Nepal 🇳🇵
-- 💼 **LinkedIn:** [/in/unique-dev](https://www.linkedin.com/in/unique-dev/)
+- 💼 **LinkedIn:** [unique-dev](https://www.linkedin.com/in/unique-dev/)
 - 📧 **Email:** [uniquebhattarai02@gmail.com](mailto:uniquebhattarai02@gmail.com)
 
 <p align="center">
