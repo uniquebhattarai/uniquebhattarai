@@ -35,7 +35,7 @@ I am a results-driven **Full Stack Developer** from Nepal. I specialize in build
 - **Frontend:** Responsive React UI with secure checkout and Redux state management.
 - **Media:** Optimized image hosting using **Cloudinary**.
 
-#### 📊 [Student Score Prediction System](https://sms-project-frontend.vercel.app/) | ML + Analytics
+#### 📊 [Student Score Prediction System](https://student-score-prediction-system.vercel.app/) | ML + Analytics
 *Predicting academic performance through data-driven insights.*
 - **ML Integration:** Connected a Django REST API with a trained Machine Learning model.
 - **UI/UX:** Built a high-performance dashboard using **Tailwind CSS v4**.
