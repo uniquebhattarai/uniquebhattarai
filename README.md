@@ -1,7 +1,7 @@
 # 👋 Namaste! I'm Unique Bhattarai 🇳🇵
 ### Full Stack Developer | B.Sc. CSIT 🎓
 
-I am a results-driven **Full Stack Developer** from Nepal. I specialize in building scalable web applications using the **MERN Stack**, with experience in developing  modern, interactive frontends using **React** and **Ant Design**.
+I am a **Full Stack Developer** from Nepal. I specialize in building scalable web applications using the **MERN Stack**, with experience in developing  modern, interactive frontends using **React** and **Ant Design**.
 
 ---
 
